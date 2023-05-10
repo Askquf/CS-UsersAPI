@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VKTask", "VKTask.csproj", "{56992FC0-9560-49DC-985C-CA5C53B97875}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56992FC0-9560-49DC-985C-CA5C53B97875}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56992FC0-9560-49DC-985C-CA5C53B97875}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56992FC0-9560-49DC-985C-CA5C53B97875}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56992FC0-9560-49DC-985C-CA5C53B97875}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBE1194E-C206-4531-9C40-A3048AA373BE}
+	EndGlobalSection
+EndGlobal
